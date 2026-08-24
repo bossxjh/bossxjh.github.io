@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2026-08-24 12:05:00-0500
+date: 2026-07-01 12:00:00-0500
 inline: true
 related_posts: false
 ---
 
-Contact information is now available directly on the homepage.
+Jul 2026: One paper was accepted by CACAI.

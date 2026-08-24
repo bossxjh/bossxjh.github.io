@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Personal homepage simplified and refreshed.
+Aug 2026: Howdy! I started my Ph.D. journey at Texas A&M University.
