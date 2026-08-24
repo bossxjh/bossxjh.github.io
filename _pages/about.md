@@ -28,6 +28,8 @@ latest_posts:
 
 # Jiahao Xiao (肖嘉豪)
 
-Pronounced _Jyaa-how Shyaow_ <button type="button" aria-label="Play pronunciation" title="Play pronunciation" style="border: none; background: transparent; padding: 0 0.15rem; cursor: pointer;" onclick="const u = new SpeechSynthesisUtterance('Jiahao Xiao'); u.lang = 'en-US'; window.speechSynthesis.cancel(); window.speechSynthesis.speak(u);">🔊</button>
+Pronounced _Jyaa-how Shyaow_ <button type="button" aria-label="Play English pronunciation" title="Play English pronunciation" style="border: none; background: transparent; padding: 0 0.15rem; cursor: pointer;" onclick="const u = new SpeechSynthesisUtterance('Jiahao Xiao'); u.lang = 'en-US'; window.speechSynthesis.cancel(); window.speechSynthesis.speak(u);">🔊</button>
+
+For the Chinese name, the more accurate version is 肖嘉豪 <button type="button" aria-label="Play Chinese pronunciation" title="Play Chinese pronunciation" style="border: none; background: transparent; padding: 0 0.15rem; cursor: pointer;" onclick="const u = new SpeechSynthesisUtterance('肖嘉豪'); u.lang = 'zh-CN'; window.speechSynthesis.cancel(); window.speechSynthesis.speak(u);">🔊</button>
 
 Hi, I am Jiahao Xiao, a Ph.D. student at Texas A&M University, advised by [Prof. Suryansh Kumar](https://suryanshkumar.github.io/). Before joining TAMU, I received my bachelor's degree from Shanghai Jiao Tong University in 2025, where I worked closely with [Dr. Zhengxue Cheng](https://medialab.sjtu.edu.cn/author/zhengxue-cheng/). I also spent a gap year at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm) and [Chunyi Li](https://lcysyzxdxc.github.io/). My research interests cover embodied AI, multimodal AI, and perception. I am especially interested in the ability of robots and other intelligent agents to acquire general-purpose capabilities through learning and interaction.
