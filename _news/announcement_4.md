@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper was accepted by ICLR 2026 with a top-2% meta-review score. ✨
+🎉 One paper was accepted by ICLR 2026 with a top-2% meta-review score.

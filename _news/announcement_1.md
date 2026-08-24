@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Howdy! I started my Ph.D. journey at Texas A&M University. 🎓
+🎓 Howdy! I started my Ph.D. journey at Texas A&M University.
