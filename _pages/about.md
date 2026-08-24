@@ -2,7 +2,7 @@
 layout: about
 title: Jiahao Xiao (肖嘉豪)
 permalink: /
-subtitle: /dʒjaʊ haʊ ʃaʊ/
+subtitle:
 
 profile:
   align: right
