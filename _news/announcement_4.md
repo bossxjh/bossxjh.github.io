@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Jan 2026: One paper was accepted by ICLR.
+One paper was accepted by ICLR. ✨

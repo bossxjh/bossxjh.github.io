@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Jul 2026: One paper was accepted by CACAI.
+One paper was accepted by CACAI. 🎉

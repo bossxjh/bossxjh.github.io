@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Apr 2026: One paper was accepted by ICML.
+One paper was accepted by ICML. 🚀
