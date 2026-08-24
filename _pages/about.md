@@ -26,4 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+# Jiahao Xiao (肖嘉豪)
+
+_/dʒjaʊ haʊ ʃaʊ/_
+
 Hi, I am Jiahao Xiao, a Ph.D. student at Texas A&M University, advised by [Prof. Suryansh Kumar](https://suryanshkumar.github.io/). Before joining TAMU, I received my bachelor's degree from Shanghai Jiao Tong University in 2025, where I worked closely with [Dr. Zhengxue Cheng](https://medialab.sjtu.edu.cn/author/zhengxue-cheng/). I also spent a gap year at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Guangtao Zhai](https://faculty.sjtu.edu.cn/zhaiguangtao/en/index.htm) and [Chunyi Li](https://lcysyzxdxc.github.io/). My research interests cover embodied AI, multimodal AI, and perception. I am especially interested in the ability of robots and other intelligent agents to acquire general-purpose capabilities through learning and interaction.
