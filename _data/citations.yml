@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-28'
+  last_updated: '2026-09-02'
 papers:
   vtQjhcUAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -10,11 +10,11 @@ papers:
     title: 'Aibench: Towards trustworthy evaluation under the 45 law'
     year: '2025'
   vtQjhcUAAAAJ:Tyk-4Ss8FVUC:
-    citations: 48
+    citations: 52
     title: 'Large multimodal models evaluation: A survey'
     year: '2025'
   vtQjhcUAAAAJ:W7OEmFMy1HYC:
-    citations: 3
+    citations: 4
     title: Image quality assessment for embodied ai
     year: '2026'
   vtQjhcUAAAAJ:Y0pCki6q_DkC:
