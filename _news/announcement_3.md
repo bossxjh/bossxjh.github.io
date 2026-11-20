@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 One paper was accepted by ICML 2026.
+🎉 Our paper [Can VLMs Diagnose and Recover from VLA Manipulation Faults?](https://proceedings.mlr.press/v306/yan26r.html) was accepted by ICML 2026.
