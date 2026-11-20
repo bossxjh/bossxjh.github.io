@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 One paper was accepted by CICAI 2026.
+🎉 Our paper [Data Assessment for Embodied Intelligence](https://arxiv.org/abs/2511.09119) was accepted by CICAI 2026.
