@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 One paper was accepted by ICLR 2026 with a top-2% meta-review score.
+🎉 Our paper [Image Quality Assessment for Embodied AI](https://openreview.net/forum?id=azj53PLJRL) was accepted by ICLR 2026 with a top-2% meta-review score.
